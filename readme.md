@@ -5,6 +5,7 @@ Zingen é um aplicativo de karaokê que combina tecnologia de ponta e uma experi
 
 ## Tecnologias Utilizadas 🚀
 -HTML5
+
 -CSS3
 
 ## Objetivo do Projeto🎯
