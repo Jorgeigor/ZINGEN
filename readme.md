@@ -28,5 +28,7 @@ $ cd ZINGEN
 $ code .
 
 ```
+## Contribuição 🤝
+Contribuições são bem-vindas! Sinta-se à vontade para dar feedbacks e críticas construtivas.
 
 
